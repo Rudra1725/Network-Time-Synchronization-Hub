@@ -1,1 +1,6 @@
-hello
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-1F6AA5?style=for-the-badge)
+![TCP Sockets](https://img.shields.io/badge/Networking-TCP_Sockets-06B6D4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Threading](https://img.shields.io/badge/Engine-Multithreading-orange?style=for-the-badge)
+![Time Sync](https://img.shields.io/badge/Function-Time_Exchange-F59E0B?style=for-the-badge&logo=clockify&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
